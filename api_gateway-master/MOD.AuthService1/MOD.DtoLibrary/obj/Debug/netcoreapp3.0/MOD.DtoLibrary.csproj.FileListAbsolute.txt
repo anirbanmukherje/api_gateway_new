@@ -29,3 +29,11 @@ D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\ne
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfo.cs
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.deps.json
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.csprojAssemblyReference.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfoInputs.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfo.cs
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb

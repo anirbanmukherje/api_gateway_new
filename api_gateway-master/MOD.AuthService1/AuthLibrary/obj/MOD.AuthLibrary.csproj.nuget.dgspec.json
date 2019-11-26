@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj": {}
+    "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj": {}
   },
   "projects": {
-    "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj": {
+    "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj",
+        "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj",
         "projectName": "MOD.AuthLibrary",
-        "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj",
+        "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\MOD.AuthLibrary.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\obj\\",
+        "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\AuthLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-                "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+              "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+                "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+    "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
+        "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
         "projectName": "MOD.ModelLibrary",
-        "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
+        "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\obj\\",
+        "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

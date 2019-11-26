@@ -5018,11 +5018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\MOD.StudentLibrary.csproj",
+      "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\MOD.StudentLibrary.csproj",
       "projectName": "MOD.StudentLibrary",
-      "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\MOD.StudentLibrary.csproj",
+      "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\MOD.StudentLibrary.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\obj\\",
+      "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\StudentLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5038,11 +5038,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.DtoLibrary\\MOD.DtoLibrary.csproj": {
-              "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.DtoLibrary\\MOD.DtoLibrary.csproj"
+            "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.DtoLibrary\\MOD.DtoLibrary.csproj": {
+              "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.DtoLibrary\\MOD.DtoLibrary.csproj"
             },
-            "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-              "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+            "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+              "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
             }
           }
         }

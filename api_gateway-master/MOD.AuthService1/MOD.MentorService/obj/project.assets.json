@@ -8662,11 +8662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\MOD.MentorService.csproj",
+      "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\MOD.MentorService.csproj",
       "projectName": "MOD.MentorService",
-      "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\MOD.MentorService.csproj",
+      "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\MOD.MentorService.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\obj\\",
+      "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.MentorService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8682,8 +8682,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MentorLibrary\\MOD.MentorLibrary.csproj": {
-              "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MentorLibrary\\MOD.MentorLibrary.csproj"
+            "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MentorLibrary\\MOD.MentorLibrary.csproj": {
+              "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MentorLibrary\\MOD.MentorLibrary.csproj"
             }
           }
         }

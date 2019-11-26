@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj": {}
+    "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj": {}
   },
   "projects": {
-    "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj": {
+    "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj",
+        "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj",
         "projectName": "MOD.ApiGateway",
-        "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj",
+        "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\MOD.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\obj\\",
+        "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

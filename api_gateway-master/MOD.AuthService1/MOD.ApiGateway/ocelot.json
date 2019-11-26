@@ -2,105 +2,114 @@
   "ReRoutes": [
     {
       "DownstreamPathTemplate": "/api/account/{catchAll}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44329
+          "Port": 9091
         }
       ],
-      "UpstreamPathTemplate": "/accountservice/{catchAll}"
+      "UpstreamPathTemplate": "/accountservice/{catchAll}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/admin",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44368
+          "Port": 9092
         }
       ],
-      "UpstreamPathTemplate": "/adminservice"
+      "UpstreamPathTemplate": "/adminservice",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/admin/{catchAll}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44368
+          "Port": 9092
         }
       ],
-      "UpstreamPathTemplate": "/adminservice/{catchAll}"
+      "UpstreamPathTemplate": "/adminservice/{catchAll}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/student",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44355
+          "Port": 9094
         }
       ],
-      "UpstreamPathTemplate": "/studentservice"
+      "UpstreamPathTemplate": "/studentservice",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/student/{catchAll}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44355
+          "Port": 9094
         }
       ],
-      "UpstreamPathTemplate": "/studentservice/{catchAll}"
+      "UpstreamPathTemplate": "/studentservice/{catchAll}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/mentor",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44372
+          "Port": 9093
         }
       ],
-      "UpstreamPathTemplate": "/mentorservice"
+      "UpstreamPathTemplate": "/mentorservice",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/mentor/{catchAll}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44372
+          "Port": 9093
         }
       ],
-      "UpstreamPathTemplate": "/mentorservice/{catchAll}"
+      "UpstreamPathTemplate": "/mentorservice/{catchAll}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/course",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44319
+          "Port": 9095
         }
       ],
-      "UpstreamPathTemplate": "/courseservice"
+      "UpstreamPathTemplate": "/courseservice",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     },
     {
       "DownstreamPathTemplate": "/api/course/{catchAll}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44319
+          "Port": 9095
         }
       ],
-      "UpstreamPathTemplate": "/courseservice/{catchAll}"
+      "UpstreamPathTemplate": "/courseservice/{catchAll}",
+      "UpstreamHttpMethod": [ "Put", "Delete", "Get", "Post" ]
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:44370"
+    "BaseUrl": "http://localhost:9090"
   }
 }

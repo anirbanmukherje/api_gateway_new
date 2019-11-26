@@ -31,3 +31,14 @@ D:\meanstack\pod\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netco
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb

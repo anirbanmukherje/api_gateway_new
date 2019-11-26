@@ -8646,11 +8646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\MOD.CourseService.csproj",
+      "projectUniqueName": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\MOD.CourseService.csproj",
       "projectName": "MOD.CourseService",
-      "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\MOD.CourseService.csproj",
+      "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\MOD.CourseService.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\obj\\",
+      "outputPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.CourseService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8666,8 +8666,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.CourseLibrary\\MOD.CourseLibrary.csproj": {
-              "projectPath": "D:\\meanstack\\pod\\api_gateway-master\\MOD.AuthService1\\MOD.CourseLibrary\\MOD.CourseLibrary.csproj"
+            "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.CourseLibrary\\MOD.CourseLibrary.csproj": {
+              "projectPath": "D:\\anirban\\api_gateway-master\\MOD.AuthService1\\MOD.CourseLibrary\\MOD.CourseLibrary.csproj"
             }
           }
         }

@@ -50,3 +50,16 @@ D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\net
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.csproj.CopyComplete
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.dll
 D:\meanstack\pod\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.MentorLibrary.deps.json
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.MentorLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.MentorLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.csprojAssemblyReference.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.AssemblyInfoInputs.cache
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.AssemblyInfo.cs
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.csproj.CopyComplete
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.dll
+D:\anirban\api_gateway-master\MOD.AuthService1\MentorLibrary\obj\Debug\netcoreapp3.0\MOD.MentorLibrary.pdb
